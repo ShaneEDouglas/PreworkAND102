@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![Prework Demo](prework2.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
